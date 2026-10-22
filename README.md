@@ -1,5 +1,7 @@
 Financial Loan Data Analysis Dashboard | Excel
+
 An interactive Microsoft Excel dashboard designed to explore loan applications, funded amounts, repayment performance, loan status, borrower characteristics, and loan distribution across different categories. The project uses PivotTables, charts, and slicers to turn raw loan data into a visual summary for exploratory financial analysis.
+
 📌 Project Overview
 Short Description / Purpose
 The Financial Loan Data Analysis Dashboard was created as a practice project while learning how to build interactive dashboards in Microsoft Excel. It explores loan portfolio information, including loan status, loan purpose, borrower employment and income characteristics, credit grades, and repayment-related measures.
@@ -60,9 +62,10 @@ Note: This is an educational practice project based on a tutorial workflow. The 
 📷 Screenshots / Demo
 Add screenshots of your own completed Excel dashboard to help visitors preview the project without downloading the workbook.
 1. Overview Dashboard
-![Financial Loan Overview Dashboard](Screenshots/overview-dashboard.png)
+ https://github.com/KhushiTrivedii/Financial-Loan-Data-Analysis-Dashboard-Excel/blob/main/Snapshots%20of%20Dashboard/overview-dashboard.png
+
 2. Loan Analysis Dashboard
-![Financial Loan Analysis Dashboard](Screenshots/loan-analysis-dashboard.png)
+https://github.com/KhushiTrivedii/Financial-Loan-Data-Analysis-Dashboard-Excel/blob/main/Snapshots%20of%20Dashboard/loan-analysis-dashboard.png
 
 
 📁 Repository Contents
